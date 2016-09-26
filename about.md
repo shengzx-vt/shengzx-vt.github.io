@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 
-<img src="PHD-profile/_picture.jpg" width = "153" height = "153" alt="PHOTO" />
+<img src="images/_picture.jpg" width = "153" height = "153" alt="PHOTO" />
 
 ##Shengzhe Xu 徐圣喆
 
@@ -17,7 +17,7 @@ Virginia Tech
 shengzx@vt.edu  
 4B KWII UPSTAIRS
 
-[CV](PHD-profile/_CV_SHENGZHEXU.pdf)
+[CV](images/_CV_SHENGZHEXU.pdf)
 
 My research interests include **Programming Languages** and **Machine Learning**.
 

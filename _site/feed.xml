@@ -6,8 +6,8 @@
 </description>
     <link>http://shengzx-vt.github.io/</link>
     <atom:link href="http://shengzx-vt.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 26 Sep 2016 15:36:46 -0400</pubDate>
-    <lastBuildDate>Mon, 26 Sep 2016 15:36:46 -0400</lastBuildDate>
+    <pubDate>Mon, 26 Sep 2016 19:06:44 -0400</pubDate>
+    <lastBuildDate>Mon, 26 Sep 2016 19:06:44 -0400</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -35,6 +35,35 @@
         <category>jekyll</category>
         
         <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>About Me</title>
+        <description>&lt;p&gt;&lt;img src=&quot;shengzx-vt.github.io/assets/_picture.jpg&quot; width=&quot;153&quot; height=&quot;153&quot; alt=&quot;PHOTO&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;##Shengzhe Xu 徐圣喆&lt;/p&gt;
+
+&lt;p&gt;PHD student&lt;br /&gt;
+Computer Science&lt;br /&gt;
+Virginia Tech&lt;/p&gt;
+
+&lt;p&gt;shengzx@vt.edu&lt;br /&gt;
+4B KWII UPSTAIRS&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;shengzx-vt.github.io/assets/_CV_SHENGZHEXU.pdf&quot;&gt;CV&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;My research interests include &lt;strong&gt;Programming Languages&lt;/strong&gt; and &lt;strong&gt;Machine Learning&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;My research passion is on improvement of programming languages that relating with machine learning. By introducing more minimal and higher accuracy probabilistic languages, build a better environment that usual developers can get benefit on reducing their development barriers.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 25 Sep 2016 15:22:25 -0400</pubDate>
+        <link>http://shengzx-vt.github.io/profiles/2016/09/25/About-Me.html</link>
+        <guid isPermaLink="true">http://shengzx-vt.github.io/profiles/2016/09/25/About-Me.html</guid>
+        
+        
+        <category>Profiles</category>
         
       </item>
     
