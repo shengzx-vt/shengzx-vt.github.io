@@ -3,24 +3,22 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [shengzx@vt.edu](mailto:shengzx@vt.edu)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: (540) 750-5580
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> Dept. of Computer Science, Virginia Tech
 >
-> London
+> 2202 Kraft Drive
 >
-> United Kingdom
-
+> Blacksburg, VA 24060
+> 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Facebook](https://www.facebook.com/shengzhe.xu.9)
