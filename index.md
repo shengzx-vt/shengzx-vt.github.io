@@ -11,8 +11,11 @@ I am a PHD student in the Department of Computer Science of Virginia Tech.
 **Contact Information**  
 Email:  shengzx@vt.edu  
 Github Algorithm Blog: [summer-meet.github.io](http://summer-meet.github.io)  
-Office: 4B Knowledge Works II UPSTAIRS  
-TA Office hour: CS3114 Data Structure and Algorithm, 104 McB Hall, Monday 12:00pm - 2:00pm & Tuesday 11:00am - 1:00 pm.
+Office: 4B Knowledge Works II UPSTAIRS
+
+TA Office hour:
+> CS3114 Data Structure and Algorithm  
+> 104 McB Hall, Monday 12:00pm - 2:00pm & Tuesday 11:00am - 1:00 pm.
 
 ## Research Interest
 
