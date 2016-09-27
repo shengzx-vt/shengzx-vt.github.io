@@ -4,7 +4,7 @@ layout: default
 
 ## Shengzhe Xu 徐圣喆
 
-<img class="profile-picture" src="shengzhe.jpg">
+<img class="profile-picture" src="shengzhe.jpg" width = "153" height = "153">
 
 PHD student of Computer Science Department, Virginia Tech
 
